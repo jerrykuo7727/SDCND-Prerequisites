@@ -71,15 +71,15 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Python
 
-- [ ] Adequate Python Knowledge
-    - [ ] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+- [x] Adequate Python Knowledge
+    - [x] [Udacity - Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [ ] [edX & Microsoft - Introduction to Python for Data Science DAT208x](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+6T2016/)
     - [ ] [Coursera - Python For Everybody](https://www.coursera.org/learn/python)
     - [ ] [SoloLearn Learn Python](https://www.sololearn.com/Course/Python/)
 
 - ### C++
 
-- [ ] Adequate C++ Knowledge
+- [x] Adequate C++ Knowledge
     - [ ] [edX & Microsoft - Introduction C++ DEV210x](https://www.edx.org/course/introduction-c-microsoft-dev210x-1)
     - [ ] [MIT - Introduction to C++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
     - [ ] [Google's C++ Class](https://developers.google.com/edu/c++/)
@@ -90,14 +90,14 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Linear Algebra
 
-- [ ] Adequate Linear Algebra Knowledge
+- [x] Adequate Linear Algebra Knowledge
     - [ ] [Udacity - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [MIT - Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 - ### Calculus
 
-- [ ] Adequate Calculus Knowledge
+- [x] Adequate Calculus Knowledge
     - [ ] [MIT - Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [ ] [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
     - [ ] [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
@@ -106,10 +106,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 - ### Statistics
 
-- [ ] Adequate Statistics Knowledge
-    - [ ] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-    - [ ] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-    - [ ] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [x] Adequate Statistics Knowledge
+    - [x] [Udacity - Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+    - [x] [Udacity - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+    - [x] [Udacity - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Deep Learning
